@@ -22,7 +22,7 @@ demonstrates no correlation. Scatter plot also demonstrates points all over the 
 <img width="257" alt="image" src="https://user-images.githubusercontent.com/33012834/210687347-551e86c8-35f3-4b12-96fc-efdd99c8b1e7.png">
 
 Rather this model allows us to infer that MVP is purely based on an individual player's performance rather than team performance. 
-Graph of player's points per game and likelihoodof winning MVP shows strong positive correlation. Logistic regression model demonstrated r^2 value > 13000,
+Graph of player's points per game and likelihoodof winning MVP shows strong positive correlation. Logistic regression model demonstrated poor correlations and statistics,
 indicating it is incorrect choice of prediction. 
 
 <img width="279" alt="image" src="https://user-images.githubusercontent.com/33012834/210687494-95acd449-8c9d-4e9c-8f74-fb14a4dabbce.png">
